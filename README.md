@@ -1,3 +1,3 @@
-# maml-mosaic
+# Meta-mosaic
 
 Official implementation of Meta-learning on Mosaic architecture
